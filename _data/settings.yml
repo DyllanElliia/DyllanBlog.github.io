@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Dyllan's HomePage
 logo: 
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+author: DyllanElliia
+description: Here is Dyllan's home page.
+email: DyllanElliia_wzn@163.com
+phone: +86 18825032708
+address: HaiZhu, GuangZhou, GuangDong, China
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -31,14 +31,14 @@ google-analytics: # UA-XXXXXX-X
 #-------------------------------
 # Comment Section (Disqus)
 
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: Mr.Dyllan # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! Here is <br> DyllanElliia's <br> Home Page!
 
 social:
 - {icon: "ti-facebook", link: "#"}
